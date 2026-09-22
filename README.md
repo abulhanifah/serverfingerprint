@@ -16,7 +16,7 @@ Library Golang untuk menghasilkan fingerprint server yang unik berdasarkan ident
 ## Installation
 
 ```bash
-go get serverfingerprint
+go get github.com/abulhanifah/serverfingerprint
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ import (
     "fmt"
     "log"
 
-    "serverfingerprint/pkg"
+    "github.com/abulhanifah/serverfingerprint/pkg"
 )
 
 func main() {
