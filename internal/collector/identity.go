@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"strings"
 
-	"serverfingerprint/internal/persistent"
+	"github.com/abulhanifah/serverfingerprint/internal/persistent"
 )
 
 // IdentityCollector mengumpulkan identitas server

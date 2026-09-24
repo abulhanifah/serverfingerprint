@@ -1,8 +1,8 @@
 package pkg
 
 import (
-	"serverfingerprint/internal/collector"
-	"serverfingerprint/internal/engine"
+	"github.com/abulhanifah/serverfingerprint/internal/collector"
+	"github.com/abulhanifah/serverfingerprint/internal/engine"
 )
 
 // ServerFingerprint adalah wrapper yang lebih mudah digunakan

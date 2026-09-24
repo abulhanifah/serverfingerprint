@@ -1,4 +1,4 @@
-module serverfingerprint
+module github.com/abulhanifah/serverfingerprint
 
 go 1.26.0
 

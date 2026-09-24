@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"serverfingerprint/internal/collector"
+	"github.com/abulhanifah/serverfingerprint/internal/collector"
 )
 
 // NormalizeData menormalkan data identitas dan environment

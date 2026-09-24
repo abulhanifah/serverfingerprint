@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"serverfingerprint/internal/persistent"
-	"serverfingerprint/pkg"
+	"github.com/abulhanifah/serverfingerprint/internal/persistent"
+	"github.com/abulhanifah/serverfingerprint/pkg"
 )
 
 func main() {

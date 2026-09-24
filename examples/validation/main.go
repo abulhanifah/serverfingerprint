@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 	"os/signal"
-	"serverfingerprint/pkg"
+	"github.com/abulhanifah/serverfingerprint/pkg"
 	"syscall"
 	"time"
 )
@@ -129,7 +129,7 @@ func (c *Client) GenerateFingerprint() (string, error) {
 }
 
 func main() {
-	fmt.Println("=== Server Fingerprint Validation Demo ===\n")
+	fmt.Println("=== Server Fingerprint Validation Demo ===")
 
 	// Setup provider (database server)
 	fmt.Println("Starting Provider Server...")

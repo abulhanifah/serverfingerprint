@@ -4,8 +4,8 @@ import (
 	"crypto/hmac"
 	"crypto/sha256"
 	"encoding/hex"
-	"serverfingerprint/internal/collector"
-	"serverfingerprint/internal/utils"
+	"github.com/abulhanifah/serverfingerprint/internal/collector"
+	"github.com/abulhanifah/serverfingerprint/internal/utils"
 )
 
 // FingerprintEngine adalah engine utama untuk menghasilkan fingerprint server

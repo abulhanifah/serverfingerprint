@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"serverfingerprint/internal/engine"
+	"github.com/abulhanifah/serverfingerprint/internal/engine"
 )
 
 func main() {
